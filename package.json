@@ -1,12 +1,12 @@
 {
-  "name": "dev-environment",
+  "name": "@fbn4sc/dev-environment",
   "version": "1.0.0",
-  "description": "",
+  "description": "code for the Node workshop",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fábio Nascimento",
   "license": "ISC"
 }
