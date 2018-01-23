@@ -1,6 +1,6 @@
 {
   "name": "@fbn4sc/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "code for the Node workshop",
   "main": "index.js",
   "scripts": {
