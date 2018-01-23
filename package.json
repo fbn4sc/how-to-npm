@@ -10,7 +10,7 @@
   "author": "Fábio Nascimento",
   "license": "ISC",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   },
   "devDependencies": {},
   "repository": {
